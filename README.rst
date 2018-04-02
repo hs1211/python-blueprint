@@ -32,6 +32,10 @@ Getting started
 Initialize
 ----------
 
+.. code-block:: shell
+    :linenos:
+
+     make init
 
 
 
