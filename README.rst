@@ -2,13 +2,13 @@
 Omnious Project Blueprint
 =========================
 
+This is for the python project blueprint to easily use and maintain codebase in python project. And it also give a brief guideline about how to add new feature, fix some typos and help to track changes of project.
+
 .. image:: logo/omnious-mark.png
    :height: 40px
    :width: 40px
    :align: left
    :alt: omnious logo
-
-Unstructured data is stalling the fashion industry’s transition to intelligence. Founded in 2015, Omnious has the answer. Forward thinking fashion companies are working with us to sort through image data, reveal insights, and give customers new choices.
 
 Key Features
 ============
@@ -25,7 +25,7 @@ Getting started
 Initialize
 ----------
 
-1. 
+
 
 
 Communication channels
