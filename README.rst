@@ -11,15 +11,19 @@ Omnious Project Blueprint
 Key Features
 ============
 
-- Supports both client and server side of HTTP protocol.
-
+- Makefile
+- Flake8
+- CHANGES
+- LICENSE
 
 Getting started
 ===============
 
-Client
-------
 
+Initialize
+----------
+
+1. 
 
 
 Communication channels
@@ -28,6 +32,7 @@ Communication channels
 *omnious-dev-team* email: support@omnious.com
 
 Feel free to post your questions and ideas here.
+
 
 Requirements
 ============
