@@ -3,22 +3,27 @@ Omnious Project Blueprint
 =========================
 
 .. image:: logo/omnious-mark.png
-   :height: 50
-   :width: 50
+   :height: 40px
+   :width: 40px
+   :align: left
    :alt: omnious logo
 
 Key Features
 ============
 
-- Supports both client and server side of HTTP protocol.
-
+- Makefile
+- Flake8
+- CHANGES
+- LICENSE
 
 Getting started
 ===============
 
-Client
-------
 
+Initialize
+----------
+
+1. 
 
 
 Communication channels
@@ -27,6 +32,7 @@ Communication channels
 *omnious-dev-team* email: support@omnious.com
 
 Feel free to post your questions and ideas here.
+
 
 Requirements
 ============
