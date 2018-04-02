@@ -1,11 +1,6 @@
 
 
 =========================
-.. image:: logo/omnious-mark.png
-   :height: 40px
-   :width: 40px
-   :align: left
-   :alt: omnious logo
 Omnious Project Blueprint
 =========================
 
