@@ -31,12 +31,9 @@ Getting started
 
 Initialize
 ----------
+This is a initialization command::
 
-.. code-block:: shell
-    :linenos:
-
-     make init
-
+    make init
 
 
 Communication channels
