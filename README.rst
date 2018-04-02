@@ -21,6 +21,7 @@ Key Features
 - Flake8
 - CHANGES
 - LICENSE
+- Docstring
 
 Getting started
 ===============
@@ -32,6 +33,13 @@ This is a initialization command::
 
     make init
 
+
+Docstring
+---------
+- Module level
+- Class level
+- Function level
+- Method level
 
 Communication channels
 ======================
