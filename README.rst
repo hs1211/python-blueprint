@@ -2,10 +2,10 @@
 Omnious Project Blueprint
 =========================
 
-.. image:: file://logo/omnious-mark.png
+.. image:: logo/omnious-mark.png
    :height: 64px
    :width: 64px
-   :alt: aiohttp logo
+   :alt: omnious logo
 
 Key Features
 ============
