@@ -3,8 +3,8 @@ Omnious Project Blueprint
 =========================
 
 .. image:: logo/omnious-mark.png
-   :height: 64px
-   :width: 64px
+   :height: 50
+   :width: 50
    :alt: omnious logo
 
 Key Features
