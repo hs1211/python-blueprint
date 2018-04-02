@@ -2,7 +2,7 @@
 Omnious Project Blueprint
 =========================
 
-.. image:: https://raw.githubusercontent.com/aio-libs/aiohttp/master/docs/_static/aiohttp-icon-128x128.png
+.. image:: file://logo/omnious-mark.png
    :height: 64px
    :width: 64px
    :alt: aiohttp logo
@@ -35,4 +35,3 @@ Requirements
 License
 =======
 
-``aiohttp`` is offered under the Apache 2 license.
