@@ -16,6 +16,9 @@ Omnious Project Blueprint
    :alt: MIT
 
 
+Introduction
+============
+
 This is for the python project blueprint to easily use and maintain codebase in python project. And it also give a brief guideline about how to add new feature, fix some typos and help to track changes of project.
 
 
