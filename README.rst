@@ -13,10 +13,10 @@ Omnious Project Blueprint
 .. image:: https://img.shields.io/badge/License-MIT-yellow.svg
    :target:  https://opensource.org/licenses/MIT
    :alt: MIT
-
-
-``Start from bottom!``
-
+|
+|``Start from bottom!``
+|
+|
 
 Introduction
 ============
