@@ -4,6 +4,12 @@
 Omnious Project Blueprint
 =========================
 
+.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
+   :target:  https://opensource.org/licenses/MIT
+   :align: right
+   :alt: MIT
+
+
 .. image:: logo/omnious-mark.png
    :height: 40px
    :width: 40px
