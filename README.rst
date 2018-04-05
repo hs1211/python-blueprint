@@ -1,20 +1,20 @@
 
 
+.. image:: logo/omnious-mark.png
+   :height: 40px
+   :width: 40px
+   :align: left
+   :alt: omnious logo
+
 =========================
 Omnious Project Blueprint
 =========================
 
 .. image:: https://img.shields.io/badge/License-MIT-yellow.svg
    :target:  https://opensource.org/licenses/MIT
-   :align: right
+   :align: left
    :alt: MIT
 
-
-.. image:: logo/omnious-mark.png
-   :height: 40px
-   :width: 40px
-   :align: left
-   :alt: omnious logo
 
 This is for the python project blueprint to easily use and maintain codebase in python project. And it also give a brief guideline about how to add new feature, fix some typos and help to track changes of project.
 
