@@ -65,3 +65,4 @@ Requirements
 License
 =======
 
+``python-blueprint`` is offered under the MIT license.
