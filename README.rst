@@ -1,6 +1,6 @@
 
 
-.. image:: logo/omnious-mark.png
+.. image:: omnious-mark.png
    :height: 40px
    :width: 40px
    :align: left
@@ -60,6 +60,8 @@ Feel free to post your questions and ideas here.
 
 Requirements
 ============
+
+- Easy-to-apply
 
 
 License
