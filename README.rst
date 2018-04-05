@@ -16,7 +16,7 @@ Omnious Project Blueprint
 
 |
 ``Start from bottom!``
-|
+
 
 Introduction
 ============
