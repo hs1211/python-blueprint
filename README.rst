@@ -14,7 +14,7 @@ Omnious Project Blueprint
    :target:  https://opensource.org/licenses/MIT
    :alt: MIT
 
-> Start from bottom!!
+| Start from bottom!!
 
 Introduction
 ============
