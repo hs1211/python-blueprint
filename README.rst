@@ -46,14 +46,13 @@ This is a initialization command::
 Documentation
 -------------
 Follow PEP 257's docstring guidelines. reStructured Text and Sphinx can help to enforce these standards.
-
-**Use one-line docstrings for obvious functions.**
+| 
+| **Use one-line docstrings for obvious functions.**
 ::
    """Return the pathname of foo."""
 
-
-
-**Multiline docstrings should include**
+| 
+| **Multiline docstrings should include**
 
 - Summary line
 - Use case (Optional)
@@ -76,8 +75,8 @@ Follow PEP 257's docstring guidelines. reStructured Text and Sphinx can help to 
    
    """
 
-
-| **Class Docstring**
+|
+| **Multiline in Class**
 | Document __init__ methods in the docstring for the class.
 
 ::
