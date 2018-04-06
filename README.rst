@@ -122,14 +122,11 @@ wiki = (
 
 Communication channels
 ======================
-
 | *omnious-dev-team* email: support@omnious.com
-|
 | Feel free to post your questions and ideas here.
 
 
 
 License
 =======
-| 
-| ``python-blueprint`` is offered under the MIT license.
+``python-blueprint`` is offered under the MIT license.
