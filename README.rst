@@ -65,7 +65,7 @@ Follow PEP 257's docstring guidelines. reStructured Text and Sphinx can help to 
 
    """Train a model to classify Foos and Bars.
 
-   Usage ``::``
+   Usage:
 
       import klassify
       data = [("green", "foo"), ("orange", "bar")]
@@ -123,15 +123,10 @@ wiki = (
 Communication channels
 ======================
 
-*omnious-dev-team* email: support@omnious.com
+|*omnious-dev-team* email: support@omnious.com
+|
+|Feel free to post your questions and ideas here.
 
-Feel free to post your questions and ideas here.
-
-
-Requirements
-============
-
-- Easy-to-apply
 
 
 License
