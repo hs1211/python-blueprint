@@ -62,7 +62,7 @@ Multiline docstrings should include
 ::
    """Train a model to classify Foos and Bars.
 
-   Usage::
+   Usage:
 
       import klassify
       data = [("green", "foo"), ("orange", "bar")]
@@ -71,6 +71,7 @@ Multiline docstrings should include
    :param train_data: A list of tuples of the form ``(color, label)``.
    :rtype: A :class:`Classifier <Classifier>`
    """
+
 
 Notes
 
