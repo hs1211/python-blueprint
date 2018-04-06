@@ -26,21 +26,16 @@ This is for the python project blueprint to easily use and maintain codebase in 
 Key Features
 ============
 
-- Makefile
 - Flake8
+- Documentation
+- Makefile
+- Testing
 - CHANGES
 - LICENSE
-- Docstring
-
-Getting started
-===============
 
 
-Initialize
-----------
-This is a initialization command::
-
-    make init
+Flake8
+======
 
 
 Documentation
@@ -93,6 +88,21 @@ Follow PEP 257's docstring guidelines. reStructured Text and Sphinx can help to 
 
 On comments
 Use them sparingly. Prefer code readability to writing a lot of comments. Often, small methods are more effective than comments.
+
+
+Makefile
+========
+
+Testing
+=======
+
+
+CHANGES
+=======
+
+
+LICENSE
+=======
 
 
 Communication channels
