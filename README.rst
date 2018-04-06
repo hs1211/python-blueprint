@@ -47,16 +47,16 @@ Documentation
 -------------
 Follow PEP 257's docstring guidelines. reStructured Text and Sphinx can help to enforce these standards.
 
-Use one-line docstrings for obvious functions.
+**Use one-line docstrings for obvious functions.**
 ::
    """Return the pathname of foo."""
 
 
 
-Multiline docstrings should include
+**Multiline docstrings should include**
 
 - Summary line
-- Use case, if appropriate
+- Use case (Optional)
 - Args
 - Return type and semantics, unless None is returned
 
@@ -65,7 +65,7 @@ Multiline docstrings should include
 
    """Train a model to classify Foos and Bars.
 
-   Usage:
+   Usage``::``
 
       import klassify
       data = [("green", "foo"), ("orange", "bar")]
@@ -73,6 +73,7 @@ Multiline docstrings should include
 
    :param train_data: A list of tuples of the form ``(color, label)``.
    :rtype: A :class:`Classifier <Classifier>`
+   
    """
 
 
