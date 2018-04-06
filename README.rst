@@ -7,7 +7,7 @@
    :alt: omnious logo
 
 =========================
-Omnious Project Blueprint
+Omnious Python Blueprint
 =========================
 
 .. image:: https://img.shields.io/badge/License-MIT-yellow.svg
