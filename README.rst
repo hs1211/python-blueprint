@@ -49,7 +49,8 @@ Follow PEP 257's docstring guidelines. reStructured Text and Sphinx can help to 
 
 Use one-line docstrings for obvious functions.
 ::
-   """Return the pathname of ``foo``."""
+   """Return the pathname of foo."""
+
 
 
 Multiline docstrings should include
