@@ -77,8 +77,9 @@ Follow PEP 257's docstring guidelines. reStructured Text and Sphinx can help to 
    """
 
 
-**Class Docstring**
-Document __init__ methods in the docstring for the class.
+| **Class Docstring**
+| Document __init__ methods in the docstring for the class.
+
 ::
 
    class Person(object):
