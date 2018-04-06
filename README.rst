@@ -62,6 +62,7 @@ Multiline docstrings should include
 
 
 ::
+
    """Train a model to classify Foos and Bars.
 
    Usage:
