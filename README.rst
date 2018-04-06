@@ -14,9 +14,6 @@ Omnious Project Blueprint
    :target:  https://opensource.org/licenses/MIT
    :alt: MIT
 
-|
-``Start from bottom!``
-
 
 Introduction
 ============
@@ -51,8 +48,9 @@ Documentation
 Follow PEP 257's docstring guidelines. reStructured Text and Sphinx can help to enforce these standards.
 
 Use one-line docstrings for obvious functions.
-
+::
    """Return the pathname of ``foo``."""
+
 
 Multiline docstrings should include
 
@@ -61,17 +59,19 @@ Multiline docstrings should include
 - Args
 - Return type and semantics, unless None is returned
 
-"""Train a model to classify Foos and Bars.
+::
+   """Train a model to classify Foos and Bars.
 
-Usage::
+   Usage::
 
-   import klassify
-   data = [("green", "foo"), ("orange", "bar")]
-   classifier = klassify.train(data)
+      import klassify
+      data = [("green", "foo"), ("orange", "bar")]
+      classifier = klassify.train(data)
 
-:param train_data: A list of tuples of the form ``(color, label)``.
-:rtype: A :class:`Classifier <Classifier>`
-"""
+   :param train_data: A list of tuples of the form ``(color, label)``.
+   :rtype: A :class:`Classifier <Classifier>`
+   """
+
 Notes
 
 Use action words ("Return") rather than descriptions ("Returns").
