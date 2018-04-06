@@ -65,7 +65,7 @@ Follow PEP 257's docstring guidelines. reStructured Text and Sphinx can help to 
 
    """Train a model to classify Foos and Bars.
 
-   Usage'::'
+   Usage``::``
 
       import klassify
       data = [("green", "foo"), ("orange", "bar")]
