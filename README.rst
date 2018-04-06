@@ -44,7 +44,7 @@ This is a initialization command::
 
 
 Documentation
--------------
+=============
 Follow PEP 257's docstring guidelines. reStructured Text and Sphinx can help to enforce these standards.
 | 
 | **Use one-line docstrings for obvious functions.**
