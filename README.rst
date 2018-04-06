@@ -59,6 +59,7 @@ Multiline docstrings should include
 - Args
 - Return type and semantics, unless None is returned
 
+
 ::
    """Train a model to classify Foos and Bars.
 
